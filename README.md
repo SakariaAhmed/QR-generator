@@ -4,6 +4,8 @@ A finished QR utility with a responsive browser interface and a small Python com
 
 **[Open QR Studio](https://sakariaahmed.com/tools/qr/)** · **[Sakaria's portfolio](https://sakariaahmed.com/#projects)**
 
+![QR Studio interface](docs/interface.jpg)
+
 ## In the browser
 
 - Create website, text and Wi-Fi codes with a live preview.
